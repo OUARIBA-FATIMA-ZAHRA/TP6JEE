@@ -1,4 +1,4 @@
-TP 6 : Spring Boot et Thymeleaf
+# TP 6 : Spring Boot et Thymeleaf
 <img width="1919" height="709" alt="Capture d&#39;écran 2026-03-17 114726" src="https://github.com/user-attachments/assets/bd01c774-0bc2-4a17-b940-496dd43481db" />
 <img width="1749" height="836" alt="Capture d&#39;écran 2026-03-17 114751" src="https://github.com/user-attachments/assets/d21a6cd4-8352-48be-90e8-c99bb31da75d" />
 <img width="1918" height="983" alt="Capture d&#39;écran 2026-03-17 114814" src="https://github.com/user-attachments/assets/fa002b34-36d3-4b41-ba81-eac8a25fab84" />
